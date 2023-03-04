@@ -15,43 +15,43 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/kdbotz/Lucifer",
-    "repository": "https://github.com/kdbotz/Lucifer",
+    "website": "https://github.com/Gurjer/LUCIFER",
+    "repository": "https://github.com/Gurjer/LUCIFER",
     "env": {
         "BOT_TOKEN": {
-            "description": "Your bot token.",
+            "description": "6027748691:AAEvkq2zmMyl9x-8JuY3WDuW89V18hGTz34.",
             "required": true
         },
         "API_ID": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": "18358648",
             "required": true
         },
         "API_HASH": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": "dd6e687404a03cde81c1566db08e1e7e",
             "required": true
         },
         "CHANNELS": {
-            "description": "Username or ID of channel or group. Separate multiple IDs by space.",
+            "description": "@DEVILMODDER007.",
             "required": false
         },
         "SUPPORT_GROUP": {
-            "description": "Support Group Chat ID",
+            "description": "-1001666428216",
             "required": true
         },
         "RQST_LOG_CHANNEL": {
-            "description": "request log channel ID",
+            "description": "-1001761109851",
             "required": true
         },
         "FILE_CHANNEL": {
-            "description": "File Channel Id",
+            "description": "-1001546987921",
             "required": true
         },
         "FILE_CHANNEL_LINK": {
-            "description": "File Channel Link",
+            "description": "https://t.me/DEVILMODDER007",
             "required": true
         },
         "ADMINS": {
-            "description": "Username or ID of Admin. Separate multiple Admins by space.",
+            "description": "@Abhishektm.",
             "required": true
         },
         "PICS": {
@@ -59,7 +59,7 @@
             "required": false
         },
         "LOG_CHANNEL": {
-            "description": "Bot Logs,Give a channel id with -100xxxxxxx",
+            "description": "-1001761109851",
             "required": true
         },
         "AUTH_USERS": {
